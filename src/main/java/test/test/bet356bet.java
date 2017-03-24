@@ -43,8 +43,8 @@ public class bet356bet {
 
 	@Test
 	public void test() { 
-		//File file = new File("C:/Users/Administrator/Desktop/bet365.properties");
-				File file = new File("C:/Users/User07/Desktop/bet365.properties");
+		 File file = new File("C:/Users/Administrator/Desktop/bet365.properties");
+				///File file = new File("C:/Users/User07/Desktop/bet365.properties");
 		    	FileInputStream fileInput = null;
 				try {
 					fileInput = new FileInputStream(file);
